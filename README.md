@@ -7,7 +7,7 @@ Install
 *	With [Vundle](https://github.com/VundleVim/Vundle.vi://github.com/VundleVim/Vundle.vim)
 
 	- Append `Plugin ‘nissassin17/vim-close-pair’` to your `.vimrc’
-	- Restart vim
+	- Restart vim or run `:source ~/.vimrc`
 	- Run `:PluginInstall`
 
 *	Manual
