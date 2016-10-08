@@ -6,13 +6,13 @@ Install
 -------
 *	With [Vundle](https://github.com/VundleVim/Vundle.vi://github.com/VundleVim/Vundle.vim)
 
-	- Append `Plugin ‘nissassin17/vim-close-pair’` to your `.vimrc`
+	- Append `Plugin ‘tranvansang/vim-close-pair’` to your `.vimrc`
 	- Restart vim or run `:source ~/.vimrc`
 	- Run `:PluginInstall`
 
 *	Manual
 
-		git checkout https://github.com/nissassin17/vim-close-pair.git
+		git checkout https://github.com/tranvansang/vim-close-pair.git
 		cd vim-close-pair
 		mkdir -p ~/.vim/plugin
 		cp -f plugin/close-pair.vim ~/.vim/plugin/
